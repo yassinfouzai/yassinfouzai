@@ -1,7 +1,7 @@
 ## 👋 Mohamed Yassine Fouzai
 
-
-
+---
+ 
 ### 📚 Programming Languages :
 
 <img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
@@ -16,6 +16,8 @@
 
 <img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 
+---
+
 ### 📚 Libraries & Frameworks :
 
 <img align="left" alt="" width="30px" style="padding-right : 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
@@ -23,6 +25,19 @@
 <img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" />
 <img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
 <img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-plain.svg" />
+
+---
+
+### Tools & Softwares :
+
+<img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+<img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+<img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+<img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+
+
 
 <!--
 **yassinfouzai/yassinfouzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
