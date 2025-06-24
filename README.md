@@ -16,7 +16,7 @@
 <img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <br>
 
----
+#
 
 ### 📚 Libraries & Frameworks :
 
@@ -27,7 +27,7 @@
 <img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-plain.svg" />
 <br>
 
----
+#
 
 ### Tools & Softwares :
 
@@ -39,6 +39,7 @@
 <img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 <br>
 
+#
 
 <!--
 **yassinfouzai/yassinfouzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
