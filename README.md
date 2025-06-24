@@ -1,5 +1,13 @@
 ## 👋 Mohamed Yassine Fouzai
 
+
+
+### 📚 Languages & Tools :
+
+<img align="left" alt="" width="35px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+<img align="left" alt="" width="35px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+<img align="left" alt="" width="35px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
+
 <!--
 **yassinfouzai/yassinfouzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
