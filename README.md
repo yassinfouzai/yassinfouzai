@@ -1,4 +1,4 @@
-## 👋 Mohamed Yassine Fouzai
+## 👋 Hi! I'm Mohamed Yassine Fouzai
 
  
 ### 📚 Programming Languages :
@@ -16,8 +16,6 @@
 <img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <br>
 
-#
-
 ### 📚 Libraries & Frameworks :
 
 <img align="left" alt="" width="30px" style="padding-right : 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
@@ -26,8 +24,6 @@
 <img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" />
 <img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-plain.svg" />
 <br>
-
-#
 
 ### Tools & Softwares :
 
@@ -41,6 +37,9 @@
 
 #
 
+### GitHub Stats : 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassinfouzai)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yassinfouzai/yassinfouzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
