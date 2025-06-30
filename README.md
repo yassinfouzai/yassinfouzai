@@ -1,6 +1,11 @@
 ## 💢 Hi! I'm Mohamed Yassine Fouzai
 
- 
+### About Me:
+
+I am passionate about low-level programming, with a specialization in graphics programming and developing command-line interfaces (CLIs). When I’m not immersed in code, I dedicate my time to refining both body and mind through weightlifting and calisthenics.
+
+#
+
 ### 💻 Programming Languages :
 
 <img align="left" alt="" width="30px" style="padding-right : 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
@@ -41,7 +46,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinfouzai&theme=shadow_red&text_color="fefefe")](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yassinfouzai&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
 **yassinfouzai/yassinfouzai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
